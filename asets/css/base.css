@@ -73,7 +73,7 @@ p{
 /* modal */
 
 .hidden__modal {
-    display: none;
+    display: none !important;
 }
 
 .modal{
