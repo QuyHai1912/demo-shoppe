@@ -71,6 +71,11 @@ p{
     }
 }
 /* modal */
+
+.hidden__modal {
+    display: none;
+}
+
 .modal{
     position: fixed;
     top: 0;
